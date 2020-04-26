@@ -1,0 +1,27 @@
+
+plugins {
+    id 'application'
+    id 'java-library'
+    id 'scala'
+}
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+    jcenter()
+}
+
+dependencies {
+    implementation 'org.scala-lang:scala-library:2.11.11'
+    implementation group: 'org.apache.spark', name: 'spark-core_2.11', version: '2.4.3'
+    implementation group: 'org.apache.spark', name: 'spark-mllib_2.11', version: '2.4.3'
+    implementation 'com.linkedin.isolation-forest:isolation-forest_2.4.3_2.11:0.3.2'
+    implementation group: 'org.apache.spark', name: 'spark-sql-kafka-0-10_2.11', version: '2.4.3'
+    implementation group: 'mysql', name: 'mysql-connector-java', version: '8.0.19'
+
+}
+
