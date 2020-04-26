@@ -833,7 +833,7 @@ After that we can see a decrease in anomaly level for most of the world which ca
 The last week shows ones again a big spike in the entire world. It is still hard to know why, could be because a lot of countries tried to stop the quarantine and return to a more “normal” life which lead to the morbidity increased again in those countries.  
 
 ### Conclusion
-The project’s purpose is to create a monitoring system, with a learning model that detects anomalies in disease symptoms search, that based on google daily data flow, able to detect major shifts in symptoms search per country and symptom.
-The results of the project showed us that large pandemics such as swine flu, bird flu and CoronaVirus could be easily identified.
-We noticed various outbreaks of other diseases. In addition, there were years when a certain illness was more powerful.
-For some countries mostly from sain and Africa, it was harder to gather date because there lack in google, which made it difficult to identify epidemics whose outbreak occurred in these countries.
+Our goal was to create a disease outbreaks monitoring system using big data and machine learning techniques on data that we gathered from Google Search worldwide.  
+The final result clearly shows that large pandemics such as swine flu, bird flu, and CoronaVirus could be easily identified.  
+Moreover, we noticed various other diseases outbreaks and some years that a certain illness was more powerful.  
+However, for some countries (mostly from sain and Africa), it was much harder to get reasonable results, thanks to a lack of Google activities.
