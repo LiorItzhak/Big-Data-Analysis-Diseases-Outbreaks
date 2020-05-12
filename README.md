@@ -1,6 +1,6 @@
 # Detecting Disease Outbreaks Over Big-Data Stream
 ### Class work for Big-Data Analysis
-#### Lior Itzhak, Tal Peretz, Sean Goldfarb 
+
 ## Introduction
 Diseases outbreaks can be characterized by an increasing amount of people that experience symptoms like cough,
 cold, vomiting, infirmity, etc..  
